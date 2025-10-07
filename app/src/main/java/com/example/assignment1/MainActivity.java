@@ -13,7 +13,6 @@ import android.widget.Toast;
  * Assignment: Part B – Android Studio Application
  * Student: Manpreet Singh
  * Student ID: A00198842
- * Date: 2025-10-06
  * Description: This app takes user name, age, and program,
  * validates the input, and displays an introduction message.
  */
